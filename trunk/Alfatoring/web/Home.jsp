@@ -10,13 +10,13 @@
     <title>ALFATORING</title>
     <center>
         <head>
-        <a href="Interface - RPLT - Home.html"><img src="alfatoring.jpg"></a><br/><br/>
+        <a href="Home.jsp"><img src="PIC/alfatoring.jpg"></a><br/><br/>
     </head>
-    <body background="bg2.jpg">
+    <body background="PIC/bg2.jpg">
         <!-- MENU UTAMA -->
-        <a href="Interface - RPLT - Terima Barang.html"><img src="Terima.jpg"></a>
-        <a href="Interface - RPLT - Jual Barang.html"><img src="Jual.jpg"></a>
-        <a href="Interface - RPLT - Pesan Barang.html"><img src="Pesan.jpg"></a>
+        <a href="Terima.jsp"><img src="PIC/Terima.jpg"></a>
+        <a href="Jual.jsp"><img src="PIC/Jual.jpg"></a>
+        <a href="Pesan.jsp"><img src="PIC/Pesan.jpg"></a>
         <br/><hr><br/><br/>
         <!-- FORM -->
         <font color="white">
