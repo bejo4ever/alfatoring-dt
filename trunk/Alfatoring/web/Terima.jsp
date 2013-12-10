@@ -21,12 +21,12 @@
         <br/><hr><br/><br/>
         <!-- FORM -->
         <font color="yellow" size="6"><b>FORM TERIMA BARANG</b></font><br/><br/>
-        <form>
+        <form action="filterTerima">
             <table>
                 <tr><td><font color="white" size="5">Nama Barang </font></td><td> : </td><td><input type="text" name="nama"><br/></td></tr>
                 <tr><td><font color="white" size="5">Kode Barang </font></td><td> : </td><td><input type="text" name="kode"><br/></td></tr>
                 <tr><td><font color="white" size="5">Jenis Barang</font></td><td> : </td><td><input type="text" name="jenis"><br/></td></tr>
-                <tr><td><font color="white" size="5">Harga Barang</font></td><td> : </td><td><input type="text" name="harga"><br/></td></tr>
+                <tr><td><font color="white" size="5">Jumlah Barang</font></td><td> : </td><td><input type="text" name="jumlah"><br/></td></tr>
             </table>
             <br/><input type="submit" value="Konfirmasi: BARANG TELAH DITERIMA">
         </form>
